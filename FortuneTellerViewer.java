@@ -8,7 +8,7 @@ import java.awt.Toolkit;
  * of FortuneTellerFrame and sets the frame's stats: size (3/4 of the screen),
  * centered position, close behavior and visibility.
  *
- * @author Your Name
+ * @author Asante
  * @version 1.0
  */
 public class FortuneTellerViewer
