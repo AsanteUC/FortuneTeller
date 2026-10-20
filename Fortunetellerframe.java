@@ -25,8 +25,6 @@ import java.util.Random;
  * <p>
  * Each click on "Read My Fortune!" appends a randomly chosen fortune to the
  * text area. Fortunes may repeat over time, but never twice in a row.
- *
- * @author Your Name
  * @version 1.0
  */
 public class FortuneTellerFrame extends JFrame
